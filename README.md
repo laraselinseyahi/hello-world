@@ -5,3 +5,5 @@ intro to github my first repository
 **flowers**
 *lavender*
 [lavender_wikipedia](https://en.wikipedia.org/wiki/Lavandula)
+
+making new additions 🌻 💌

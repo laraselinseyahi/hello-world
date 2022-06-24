@@ -13,7 +13,7 @@ button = tk.Button(text = 'OK', command = window.quit).pack()
 percent = tk.StringVar()
 
 #creating the progress bar
-bar = ttk.Progressbar(window, orient = 'horizontal', length = 300)
+bar = ttk.Progressbar(window, orient = 'horizontal', length = 400)
 bar.pack(pady = 20)
 
 percentLabel = tk.Label(window, textvariable = percent).pack()
